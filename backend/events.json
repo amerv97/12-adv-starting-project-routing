@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"test","image":"https://littlevisuals.co/images/sunset.jpg","date":"2023-04-13","description":"test","id":"7c18fca2-1bc6-4bb0-8982-daf16c74257c"},{"title":"Be Smart","image":"https://www.google.com/search?q=nice+event+pictures&tbm=isch&ved=2ahUKEwjl54_Zp5r-AhVdif0HHbGZAkUQ2-cCegQIABAA&oq=nice+event+pictures&gs_lcp=CgNpbWcQAzoECCMQJ1CTHVjII2CNJ2gAcAB4AYABrgGIAZYHkgEDMC43mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=UGExZOX_E92S9u8PsbOKqAQ&bih=763&biw=1536#imgrc=nfBAreVoUfhozM","date":"2023-04-20","description":"be smart event","id":"3142f57a-01a6-4e76-a691-0e96b1bfda74"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
